@@ -15,4 +15,4 @@ Interface intuitiva
 Design moderno
 
 **Acesse**
-https://yolaurett.github.io/dermalavina/
+https://yolaurett.github.io/Dermalavina/
